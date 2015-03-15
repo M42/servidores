@@ -69,9 +69,15 @@ que considere más importantes.**
 * Permite servidores de mayor capacidad. Permite configurar hasta 320
   procesadores lógicos, 4 terabytes de memoria física y 1 terabyte de memoria
   virtual. [^12vs08plural]
+* 2012 deja de soportar procesadores con arquitectura Itanium. [^12vs08wiki]
+* Permite máquinas virtuales como ficheros almacenados en disco. [^12vs08tech]
+* Incluye Powershell para controlar Hyper-V y las conexiones de red. [^12vs08tech]
+* Añade soporte para medir las conexiones (network metering) y para asegurar la
+  calidad del servicio (network QoS). [^12vs08tech]
 
 [^12vs08plural]: Pluralsight. Windows Server 2012 R2 vs 2008 R2. <http://blog.pluralsight.com/server-2012-versus-server-2008>
-
+[^12vs08wiki]: Wikipedia. Windows Server 2012 <http://en.wikipedia.org/wiki/Windows_Server_2012>
+[^12vs08tech]: TechNet. Hyper-V Comparison <http://blogs.technet.com/b/ieitpro/archive/2013/01/29/hyper-v-comparison-windows-server-2008-r2-vs-windows-server-2012.aspx>
 
 ## Cuestión 5.
 **¿Qué empresa hay detrás de Ubuntu? ¿Qué otros productos/servicios
