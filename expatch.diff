@@ -1,0 +1,9 @@
+--- example.cc	2015-03-31 13:19:07.269179051 +0200
++++ example-new.cc	2015-03-31 13:19:44.837179660 +0200
+@@ -2,5 +2,6 @@
+ using namespace std;
+ 
+ int main() {
++	cout << "Hello world!";
+ 	return 0;
+ }
