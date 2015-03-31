@@ -144,6 +144,11 @@ sin introducir contraseña.**
 Configuramos el acceso para que sea posible desde el host, escribiendo una regla
 de *port forwarding* desde Virtual Box. [^virtualbox-ssh]
 
+Usamos luego el comando `ssh-keygen` para generar un par de claves
+privada-pública y el comando `ssh-copy-id` para llevar la clave al servidor. El
+proceso seguido puede observarse al completo en la imagen (figure \ref{ssh2}).
+
+![Configuración de las claves pública y privada para ssh \label{ssh2}](images/ssh2.png)
 
 [^virtualbox-ssh]: How to ssh a VirtualBox guest externally? [Stack Overflow](http://stackoverflow.com/questions/5906441/how-to-ssh-to-a-virtualbox-guest-externally-through-a-host)
 
